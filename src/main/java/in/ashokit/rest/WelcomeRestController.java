@@ -36,6 +36,7 @@ public class WelcomeRestController {
 		System.out.println("New code added here");
 		logger.info("***** greetMsg() execution end *****");
 		int i = 10;
+		int i3 = 500;
 		logger.info("***** greetMsg() execution successfull *****");
 		boolean status = false;
 		logger.info("***** ***************************** *****");
