@@ -31,6 +31,7 @@ public class WelcomeRestController {
 		logger.info("***** greetMsg() execution start *****");
 		String msg = "Good Morning, Welcome to Ashok IT";
 		System.out.println("testing git collaboration");
+		System.out.println("New code added here");
 		logger.info("***** greetMsg() execution end *****");
 		int i = 10;
 		logger.info("***** greetMsg() execution successfull *****");
