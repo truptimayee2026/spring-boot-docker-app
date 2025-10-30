@@ -44,6 +44,7 @@ public class WelcomeRestController {
 		boolean value = true;
 		logger.info("aswxdefgrtjkhgfcxd");
 		int y = 300;
+		int x = 7;
 		return msg;
 	}
 	
