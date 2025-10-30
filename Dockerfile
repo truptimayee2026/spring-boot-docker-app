@@ -1,5 +1,5 @@
 FROM openjdk:11
-MAINTAINER "Ashok Bollepalli <7979791234567u89>"
+MAINTAINER "Ashok Bollepalli <7979791234567u89sdcfvgbhnjk>"
 COPY target/spring-boot-docker-app.jar  /usr/app/
 WORKDIR /usr/app/
 EXPOSE 8080
