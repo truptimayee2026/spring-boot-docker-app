@@ -43,6 +43,7 @@ public class WelcomeRestController {
 		logger.info("***** ***************************** *****");
 		boolean value = true;
 		logger.info("aswxdefgrtjkhgfcxd");
+		int y = 300;
 		return msg;
 	}
 	
