@@ -21,12 +21,13 @@ public class WelcomeRestController {
 		String msg = "Welcome to Ashok IT - Software Training Institute (HYD) ..!!";
 		logger.info("***** welcomeMsg() execution end *****");
 		String slf = "Hellow there is:";
+		String s1 = "Hello there";
 		String s = "hello";
 		logger.info("******************************************************************");
 		return msg;
 	}
 	
-	@GetMapping("/greet")
+	@GetMapping("/greetings")
 	public String greetMsg() {
 		logger.info("***** greetMsg() execution start *****");
 		String msg = "Good Morning, Welcome to Ashok IT";
