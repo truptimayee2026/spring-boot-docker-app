@@ -41,6 +41,7 @@ public class WelcomeRestController {
 		logger.info("***** greetMsg() execution successfull *****");
 		boolean status = false;
 		logger.info("***** ***************************** *****");
+		boolean value = true;
 		logger.info("aswxdefgrtjkhgfcxd");
 		return msg;
 	}
