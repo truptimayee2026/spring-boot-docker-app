@@ -57,4 +57,14 @@ public class WelcomeRestController {
 	}
 	
 	
+	// task-320
+	public void m1(){
+		int i = 20;
+		int j = 30;
+		int z = i+j;
+		System.out.println(z);
+		// now completed
+	}
+	
+	
 }
