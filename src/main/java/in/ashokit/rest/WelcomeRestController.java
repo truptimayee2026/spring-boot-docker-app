@@ -14,6 +14,14 @@ public class WelcomeRestController {
 	public WelcomeRestController() {
 		logger.info("***** WelcomeRestController :: Constructor *****");
 	}
+	
+	//task - 321
+	public void m2(){
+		
+		
+		// logic completed
+		
+	}
 
 	@GetMapping
 	public String welcomeMsg() {
