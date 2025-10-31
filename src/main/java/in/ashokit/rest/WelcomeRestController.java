@@ -63,7 +63,7 @@ public class WelcomeRestController {
 		int j = 30;
 		int z = i+j;
 		System.out.println(z);
-		// now completed**********************
+		// now completed
 	}
 	
 	
